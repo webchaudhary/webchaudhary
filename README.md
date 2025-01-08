@@ -1,9 +1,22 @@
 <h1 align="left">Aman Chaudhary</h1>
 <h2 align="left">A Full Stack WebGIS developer.</h2>
 
-- 👨‍💻 All of my projects are available at [https://chaudharyaman.com/](https://chaudharyaman.com/)
+<p align="left">
+  I specialize in building interactive and visually compelling web-based GIS applications, blending robust backend systems with seamless user experiences.
 
-- 📫 How to reach me **amanchaudhary.web@gmail.com**
+My expertise spans:
+- Frontend Development: HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS, ReactJS, NextJS
+- Mapping Libraries: LeafletJS, OpenLayers, Mapbox, CesiumJS, MapLibre, MapTiler, TerriaJS, PlotlyJS, ArcGIS API for JavaScript, Google Maps API
+- Backend Development: NodeJS, Flask, Django, RESTful APIs
+- Databases: MongoDB, PostgreSQL, PostGIS, MySQL, Firebase
+- Geo Tools: QGIS, ArcGIS, GeoServer, GRASS GIS, GDAL, Google Earth Pro, Google Earth Engine, Terracotta Server
+- Cloud and Server Management: AWS, Ubuntu, Apache Server, Nginx Server, uWSGI
+I am passionate about leveraging geospatial technologies to craft dynamic, user-centric applications that solve complex challenges.
+</p>
+
+- 👨‍💻 Portfolio: [https://chaudharyaman.com/](https://chaudharyaman.com/)
+
+- 📫 Email: **amanchaudhary.web@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
