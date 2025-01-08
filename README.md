@@ -11,12 +11,13 @@ My expertise spans:
 - Databases: MongoDB, PostgreSQL, PostGIS, MySQL, Firebase
 - Geo Tools: QGIS, ArcGIS, GeoServer, GRASS GIS, GDAL, Google Earth Pro, Google Earth Engine, Terracotta Server
 - Cloud and Server Management: AWS, Ubuntu, Apache Server, Nginx Server, uWSGI
-- Portfolio: [https://chaudharyaman.com/](https://chaudharyaman.com/)
-- Email: **amanchaudhary.web@gmail.com**
+
 </p>
 
 I am passionate about leveraging geospatial technologies to craft dynamic, user-centric applications that solve complex challenges.
-
+- Portfolio: [https://chaudharyaman.com/](https://chaudharyaman.com/)
+- Email: **amanchaudhary.web@gmail.com**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amanchaudhary-com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amanchaudhary-com" height="30" width="40" /></a>
