@@ -1,5 +1,5 @@
 <h1 align="left">Aman Chaudhary</h1>
-<h2 align="left">A Full Stack WebGIS developer.</h2>
+<h3 align="left">A Full Stack WebGIS developer.</h3>
 
 <p align="left">
   I specialize in building interactive and visually compelling web-based GIS applications, blending robust backend systems with seamless user experiences.
@@ -14,9 +14,9 @@ My expertise spans:
 I am passionate about leveraging geospatial technologies to craft dynamic, user-centric applications that solve complex challenges.
 </p>
 
-- 👨‍💻 Portfolio: [https://chaudharyaman.com/](https://chaudharyaman.com/)
+- Portfolio: [https://chaudharyaman.com/](https://chaudharyaman.com/)
 
-- 📫 Email: **amanchaudhary.web@gmail.com**
+- Email: **amanchaudhary.web@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
