@@ -1,5 +1,5 @@
 <h1 align="left">Aman Chaudhary</h1>
-<h3 align="left">A Full Stack WebGIS developer.</h3>
+<h3 align="left">A Full Stack WebGIS Developer.</h3>
 
 <p align="left">
   I specialize in building interactive and visually compelling web-based GIS applications, blending robust backend systems with seamless user experiences.
