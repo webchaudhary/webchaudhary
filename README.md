@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aman Chaudhary</h1>
-<h3 align="center">WebGIS Developer</h3>
+<h1 align="left">Aman Chaudhary</h1>
+<h2 align="left">A Full Stack WebGIS developer.</h2>
 
 - 👨‍💻 All of my projects are available at [https://chaudharyaman.com/](https://chaudharyaman.com/)
 
@@ -7,8 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/chaudharyaman__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chaudharyaman__" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/amanchaudhary-com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amanchaudhary-com" height="30" width="40" /></a>
+<a href="https://twitter.com/chaudharyaman__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chaudharyaman__" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
